@@ -1,2 +1,2 @@
 # IdiomaDoSistemaSwing
-Projeto mostra o indima do sistema
+Projeto mostra o idioma do sistema
